@@ -1,6 +1,6 @@
 # 🛍️ React Router + Material-UI E-Commerce Catalog
 
-> Современный каталог товаров с использованием React Router v6, Material-UI и адаптивным дизайном
+> Каталог товаров с использованием React Router v6, Material-UI и адаптивным дизайном
 
 ## 📋 Описание проекта
 
